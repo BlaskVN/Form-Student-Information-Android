@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Form Student Infomation</string>
+    <string-array name="provinces">
+        <item>Hà Nội</item>
+        <item>Hồ Chí Minh</item>
+        <item>Đà Nẵng</item>
+        <!-- Thêm các tỉnh thành khác -->
+    </string-array>
+
+    <string-array name="districts">
+        <item>Ba Đình</item>
+        <item>Hai Bà Trưng</item>
+        <item>Cầu Giấy</item>
+        <!-- Thêm các quận/huyện khác -->
+    </string-array>
+
+    <string-array name="wards">
+        <item>Phường 1</item>
+        <item>Phường 2</item>
+        <item>Phường 3</item>
+        <!-- Thêm các phường/xã khác -->
+    </string-array>
+</resources>
